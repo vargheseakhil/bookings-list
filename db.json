@@ -1,0 +1,68 @@
+{
+    "bookings":[
+        {
+        "id": 1,
+        "status" : "request",
+        "time": "11.25 AM",
+        "date": "12/01/2019",
+        "customerDetail": {
+            "name": "Ray Bairstow",
+            "place": "SanFrancisco",
+            "avatar": "imgUrl",
+            "availableTime": {
+                "fromDate": "December 20 2019",
+                "fromTime": "9.00 AM - 6.00 PM",
+                "ToDate": "December 25 2019",
+                "ToTime": "9.00 AM - 6.00 PM"
+                },
+            "address" : ["50 Hagiwara TeaGarden",
+                "San Francisco",
+                "CA 94118"]
+        },
+        "noOfDeals": "16"
+        },
+        {
+            "id": 2,
+            "status" : "payment",
+            "time": "11.25 AM",
+            "date": "12/01/2019",
+            "customerDetail": {
+                "name": "Thomas Macgill",
+                "place": "SanFrancisco",
+                "avatar": "imgUrl",
+                "availableTime": {
+                    "fromDate": "December 20 2019",
+                    "fromTime": "9.00 AM - 6.00 PM",
+                    "ToDate": "December 25 2019",
+                    "ToTime": "9.00 AM - 6.00 PM"
+                    },
+                "address" : ["50 Hagiwara TeaGarden",
+                    "San Francisco",
+                    "CA 94118"]
+            },
+            "noOfDeals": "16"
+        },
+        {
+            "id": 3,
+            "status" : "service",
+            "time": "11.25 AM",
+            "date": "12/01/2019",
+            "customerDetail": {
+                "name": "Shelron Boss",
+                "place": "SanFrancisco",
+                "avatar": "imgUrl",
+                "availableTime": {
+                    "fromDate": "December 20 2019",
+                    "fromTime": "9.00 AM - 6.00 PM",
+                    "ToDate": "December 25 2019",
+                    "ToTime": "9.00 AM - 6.00 PM"
+                    },
+                "address" : ["50 Hagiwara TeaGarden",
+                    "San Francisco",
+                    "CA 94118"]
+            },
+            "noOfDeals": "16"
+        }
+        
+    ]
+  }
