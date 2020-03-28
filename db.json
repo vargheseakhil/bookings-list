@@ -2,7 +2,7 @@
     "bookings":[
         {
         "id": 1,
-        "status" : "request",
+        "status" : "PENDING",
         "time": "11.25 AM",
         "date": "12/01/2019",
         "customerDetail": {
@@ -23,7 +23,7 @@
         },
         {
             "id": 2,
-            "status" : "payment",
+            "status" : "PENDING",
             "time": "11.25 AM",
             "date": "12/01/2019",
             "customerDetail": {
@@ -40,11 +40,11 @@
                     "San Francisco",
                     "CA 94118"]
             },
-            "noOfDeals": "16"
+            "noOfDeals": "100"
         },
         {
             "id": 3,
-            "status" : "service",
+            "status" : "PENDING",
             "time": "11.25 AM",
             "date": "12/01/2019",
             "customerDetail": {
@@ -61,7 +61,49 @@
                     "San Francisco",
                     "CA 94118"]
             },
-            "noOfDeals": "16"
+            "noOfDeals": "8"
+        },
+        {
+            "id": 4,
+            "status" : "PENDING",
+            "time": "11.25 AM",
+            "date": "12/01/2019",
+            "customerDetail": {
+                "name": "Lilly Jose",
+                "place": "SanFrancisco",
+                "avatar": "imgUrl",
+                "availableTime": {
+                    "fromDate": "December 20 2019",
+                    "fromTime": "9.00 AM - 6.00 PM",
+                    "ToDate": "December 25 2019",
+                    "ToTime": "9.00 AM - 6.00 PM"
+                    },
+                "address" : ["50 Hagiwara TeaGarden",
+                    "San Francisco",
+                    "CA 94118"]
+            },
+            "noOfDeals": "0"
+        },
+        {
+            "id": 5,
+            "status" : "PENDING",
+            "time": "11.25 AM",
+            "date": "12/01/2019",
+            "customerDetail": {
+                "name": "Harry Bedford",
+                "place": "SanFrancisco",
+                "avatar": "imgUrl",
+                "availableTime": {
+                    "fromDate": "December 20 2019",
+                    "fromTime": "9.00 AM - 6.00 PM",
+                    "ToDate": "December 25 2019",
+                    "ToTime": "9.00 AM - 6.00 PM"
+                    },
+                "address" : ["50 Hagiwara TeaGarden",
+                    "San Francisco",
+                    "CA 94118"]
+            },
+            "noOfDeals": "12"
         }
         
     ]
