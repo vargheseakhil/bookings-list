@@ -63,7 +63,7 @@
                     "San Francisco",
                     "CA 94118"]
             },
-            "noOfDeals": "8",
+            "noOfDeals": "18",
             "sessionCost": "$30"
         },
         {
@@ -109,6 +109,116 @@
             },
             "noOfDeals": "12",
             "sessionCost": "$65"
+        },
+        {
+            "id": 6,
+            "status" : "PENDING",
+            "time": "08.55 AM",
+            "date": "10/09/2019",
+            "customerDetail": {
+                "name": "Steve Smith",
+                "place": "Hamberg",
+                "avatar": "imgUrl",
+                "availableTime": {
+                    "fromDate": "January, 20, 2019",
+                    "fromTime": "9.00 AM - 6.00 PM",
+                    "ToDate": "December, 25, 2019",
+                    "ToTime": "9.00 AM - 6.00 PM"
+                    },
+                "address" : ["50 Hagiwara TeaGarden",
+                    "San Francisco",
+                    "CA 94118"]
+            },
+            "noOfDeals": "11",
+            "sessionCost": "$95"
+        },
+        {
+            "id": 7,
+            "status" : "PENDING",
+            "time": "07.55 AM",
+            "date": "10/09/2019",
+            "customerDetail": {
+                "name": "Stephia Lawrance",
+                "place": "Kochi",
+                "avatar": "imgUrl",
+                "availableTime": {
+                    "fromDate": "January, 20, 2019",
+                    "fromTime": "9.00 AM - 6.00 PM",
+                    "ToDate": "December, 25, 2019",
+                    "ToTime": "9.00 AM - 6.00 PM"
+                    },
+                "address" : ["50 Hagiwara TeaGarden",
+                    "San Francisco",
+                    "CA 94118"]
+            },
+            "noOfDeals": "11",
+            "sessionCost": "$95"
+        },
+        {
+            "id": 8,
+            "status" : "PENDING",
+            "time": "08.55 AM",
+            "date": "10/09/2019",
+            "customerDetail": {
+                "name": "Adam Gill",
+                "place": "Australia",
+                "avatar": "imgUrl",
+                "availableTime": {
+                    "fromDate": "January, 20, 2019",
+                    "fromTime": "9.00 AM - 6.00 PM",
+                    "ToDate": "December, 25, 2019",
+                    "ToTime": "9.00 AM - 6.00 PM"
+                    },
+                "address" : ["50 Hagiwara TeaGarden",
+                    "Australia",
+                    "CA 94118"]
+            },
+            "noOfDeals": "11",
+            "sessionCost": "$95"
+        },
+        {
+            "id": 9,
+            "status" : "PENDING",
+            "time": "12.55 AM",
+            "date": "10/09/2019",
+            "customerDetail": {
+                "name": "Mathew Hen",
+                "place": "Australia",
+                "avatar": "imgUrl",
+                "availableTime": {
+                    "fromDate": "January, 20, 2019",
+                    "fromTime": "9.00 AM - 6.00 PM",
+                    "ToDate": "December, 25, 2019",
+                    "ToTime": "9.00 AM - 6.00 PM"
+                    },
+                "address" : ["50 Hagiwara TeaGarden",
+                    "Australia",
+                    "CA 94118"]
+            },
+            "noOfDeals": "20",
+            "sessionCost": "$44"
+        },
+        {
+            "id": 10,
+            "status" : "PENDING",
+            "time": "08.55 AM",
+            "date": "10/09/2019",
+            "customerDetail": {
+                "name": "Sam Walton",
+                "place": "Florida",
+                "avatar": "imgUrl",
+                "availableTime": {
+                    "fromDate": "March, 20, 2019",
+                    "fromTime": "9.00 AM - 6.00 PM",
+                    "ToDate": "March, 25, 2019",
+                    "ToTime": "9.00 AM - 6.00 PM"
+                    },
+                "address" : ["50 Hagiwara TeaGarden",
+                    "Florida",
+                    "FL 94118"]
+            },
+            "noOfDeals": "13",
+            "sessionCost": "$30"
         }
         
     ]
