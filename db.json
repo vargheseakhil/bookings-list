@@ -27,7 +27,7 @@
             "time": "11.25 AM",
             "date": "12/01/2019",
             "customerDetail": {
-                "name": "Thomas Macgill",
+                "name": "Thomas Gill",
                 "place": "SanFrancisco",
                 "avatar": "imgUrl",
                 "availableTime": {
@@ -36,11 +36,11 @@
                     "ToDate": "December 25 2019",
                     "ToTime": "9.00 AM - 6.00 PM"
                     },
-                "address" : ["50 Hagiwara TeaGarden",
+                "address" : ["535 Hagiwara TeaGarden",
                     "San Francisco",
                     "CA 94118"]
             },
-            "noOfDeals": "100"
+            "noOfDeals": "90"
         },
         {
             "id": 3,
