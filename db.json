@@ -7,103 +7,108 @@
         "date": "12/01/2019",
         "customerDetail": {
             "name": "Ray Bairstow",
-            "place": "SanFrancisco",
+            "place": "San Francisco",
             "avatar": "imgUrl",
             "availableTime": {
-                "fromDate": "December 20 2019",
+                "fromDate": "December, 20, 2019",
                 "fromTime": "9.00 AM - 6.00 PM",
-                "ToDate": "December 25 2019",
+                "ToDate": "December, 25, 2019",
                 "ToTime": "9.00 AM - 6.00 PM"
                 },
             "address" : ["50 Hagiwara TeaGarden",
                 "San Francisco",
                 "CA 94118"]
         },
-        "noOfDeals": "16"
+        "noOfDeals": "16",
+        "sessionCost": "$100"
         },
         {
             "id": 2,
             "status" : "PENDING",
-            "time": "11.25 AM",
-            "date": "12/01/2019",
+            "time": "10.35 AM",
+            "date": "12/08/2019",
             "customerDetail": {
                 "name": "Thomas Gill",
-                "place": "SanFrancisco",
+                "place": "California",
                 "avatar": "imgUrl",
                 "availableTime": {
-                    "fromDate": "December 20 2019",
+                    "fromDate": "December, 20, 2019",
                     "fromTime": "9.00 AM - 6.00 PM",
-                    "ToDate": "December 25 2019",
+                    "ToDate": "December, 25, 2019",
                     "ToTime": "9.00 AM - 6.00 PM"
                     },
                 "address" : ["535 Hagiwara TeaGarden",
                     "San Francisco",
                     "CA 94118"]
             },
-            "noOfDeals": "90"
+            "noOfDeals": "90",
+            "sessionCost": "$85"
         },
         {
             "id": 3,
             "status" : "PENDING",
-            "time": "11.25 AM",
-            "date": "12/01/2019",
+            "time": "09.25 AM",
+            "date": "12/12/2019",
             "customerDetail": {
                 "name": "Shelron Boss",
-                "place": "SanFrancisco",
+                "place": "AmsterDam",
                 "avatar": "imgUrl",
                 "availableTime": {
-                    "fromDate": "December 20 2019",
+                    "fromDate": "December, 20, 2019",
                     "fromTime": "9.00 AM - 6.00 PM",
-                    "ToDate": "December 25 2019",
+                    "ToDate": "December, 25, 2019",
                     "ToTime": "9.00 AM - 6.00 PM"
                     },
                 "address" : ["50 Hagiwara TeaGarden",
                     "San Francisco",
                     "CA 94118"]
             },
-            "noOfDeals": "8"
+            "noOfDeals": "8",
+            "sessionCost": "$30"
         },
         {
             "id": 4,
             "status" : "PENDING",
-            "time": "11.25 AM",
-            "date": "12/01/2019",
+            "time": "08.45 AM",
+            "date": "12/05/2019",
             "customerDetail": {
                 "name": "Lilly Jose",
-                "place": "SanFrancisco",
+                "place": "Delhi",
                 "avatar": "imgUrl",
                 "availableTime": {
-                    "fromDate": "December 20 2019",
+                    "fromDate": "December, 20, 2019",
                     "fromTime": "9.00 AM - 6.00 PM",
-                    "ToDate": "December 25 2019",
+                    "ToDate": "December, 25, 2019",
                     "ToTime": "9.00 AM - 6.00 PM"
                     },
                 "address" : ["50 Hagiwara TeaGarden",
                     "San Francisco",
                     "CA 94118"]
             },
-            "noOfDeals": "0"
+            "noOfDeals": "0",
+            "sessionCost": "$55"
         },
         {
             "id": 5,
             "status" : "PENDING",
-            "time": "11.25 AM",
-            "date": "12/01/2019",
+            "time": "08.55 AM",
+            "date": "10/01/2019",
             "customerDetail": {
                 "name": "Harry Bedford",
-                "place": "SanFrancisco",
+                "place": "Wuhan",
                 "avatar": "imgUrl",
                 "availableTime": {
-                    "fromDate": "December 20 2019",
+                    "fromDate": "December, 20, 2019",
                     "fromTime": "9.00 AM - 6.00 PM",
-                    "ToDate": "December 25 2019",
+                    "ToDate": "December, 25, 2019",
                     "ToTime": "9.00 AM - 6.00 PM"
                     },
                 "address" : ["50 Hagiwara TeaGarden",
                     "San Francisco",
                     "CA 94118"]
             },
-            "noOfDeals": "12"
+            "noOfDeals": "12",
+            "sessionCost": "$65"
         }
         
     ]
